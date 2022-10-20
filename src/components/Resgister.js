@@ -68,8 +68,9 @@ const Resgister = () => {
                             <div className="form-control mt-6">
                                 <button className="btn btn-primary">Register</button>
                             </div>
-                            <button onClick={handelGoogleSignIn} className="btn btn-success">Google</button>
                         </form>
+                        <button onClick={handelGoogleSignIn} className="btn btn-success">Google</button>
+
                         
                     </div>
                 </div>
